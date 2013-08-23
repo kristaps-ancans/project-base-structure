@@ -1,4 +1,4 @@
-PRoject Base Structure	
+Project Base Structure	
 ======================
 
 Base structure for new projects to simplify everyday tasks :) 
